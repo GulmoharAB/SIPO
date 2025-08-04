@@ -167,3 +167,7 @@ MIT License - see LICENSE file for details.
 ---
 
 **Built for Verizon NOC PM Demo** | **Telecom AIOps Innovation** | **5G Network Operations**
+=======
+# SIPO
+Smart Incident Prioritizer &amp; Path Optimizer Telecom AIOps Demo
+>>>>>>> 733802e5d982eff7c4a59095e160fa0b2d504437
